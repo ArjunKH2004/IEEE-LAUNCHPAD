@@ -11,7 +11,7 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **AI Mindmaze : Memory Challenge**  | A simple image-matching game which runs on AI-generated Backnend and Frontend done by me                                              | [Hosted Link](https://arjunkh2004.github.io/Memory-Guesser/)    | [Repo Link](https://github.com/ArjunKH2004/Memory-Guesser)             |
+| **AI Mindmaze : Memory Challenge**  | A simple image-matching game which runs on AI-generated Backend and Frontend done by me                                              | [Hosted Link](https://arjunkh2004.github.io/Memory-Guesser/)    | [Repo Link](https://github.com/ArjunKH2004/Memory-Guesser)             |
 
 
 #### Leadership and Influence:
